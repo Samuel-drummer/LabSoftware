@@ -1,0 +1,3 @@
+function Cadastrar(){
+    let nome
+}
